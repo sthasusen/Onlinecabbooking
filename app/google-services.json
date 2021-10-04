@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660102192971",
+    "firebase_url": "https://online-cab-booking-287611.firebaseio.com",
+    "project_id": "online-cab-booking-287611",
+    "storage_bucket": "online-cab-booking-287611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660102192971:android:52fb7565167bfcae3c92ce",
+        "android_client_info": {
+          "package_name": "com.example.onlinecabbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660102192971-7id6dhd1ba8akur44go8d9p6irnc9o7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinecabbooking",
+            "certificate_hash": "71c97b2e9ba010de746b837f07d610542572d707"
+          }
+        },
+        {
+          "client_id": "660102192971-8g6uamj6d8h1lumb3obsr3cmb98jb8pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD583MS1DuK0QFEPGy1oZEQi26aLO6RG7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660102192971-8g6uamj6d8h1lumb3obsr3cmb98jb8pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

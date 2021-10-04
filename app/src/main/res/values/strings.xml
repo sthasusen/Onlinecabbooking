@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" parent="Theme.AppCompat.NoActionBar">OnlineCabBooking</string>
+    <string name="i_ll_decide_later">I\'ll decide later</string>
+
+
+    <style name="AppTheme.Dark.Dialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColorPrimary">@color/iron</item>
+        <item name="android:background">@color/primary</item>
+    </style>
+
+
+    <string name="title_activity_driver_maps">Driver Map</string>
+    <string name="title_activity_passenger_maps">Passenger Map</string>
+
+</resources>
